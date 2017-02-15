@@ -27,5 +27,12 @@ fun todoTask0(): Nothing = TODO(
 )
 
 fun task0(): String {
+<<<<<<< refs/remotes/origin/master
     return todoTask0()
 }
+=======
+    return "OK"
+}
+
+
+>>>>>>> first 5 tests passes
